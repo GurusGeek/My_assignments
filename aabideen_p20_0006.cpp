@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+//this code is for stack implementation
 class Stack
 {
 private:
